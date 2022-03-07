@@ -17,6 +17,7 @@ const AddProduct = () => {
         }))
     };  
 
+
     const handleSubmit = (e) => {
         setIsPending(false);
         e.preventDefault();

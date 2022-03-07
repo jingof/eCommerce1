@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 
-
 const ViewProducts = () => {
     let products = JSON.parse(localStorage.getItem("eCommerceProducts"));
     const [value, setValue] = useState('');

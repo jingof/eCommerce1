@@ -12,7 +12,6 @@ import ViewProducts from './ViewProducts';
 import JsonData from './data/productsDb.json';
 import ModifyProducts from './ModifyProducts ';
 
-
 const { products } = JsonData;     
 if(!localStorage.getItem('eCommerceProducts'))
 {

@@ -12,9 +12,7 @@ const Navbar = ({title}) => {
             <Link to="/addItem">Add Item</Link>
             <Link to="/viewproducts">View</Link>
             <Link to="/modifyproducts">Modify</Link>
-            
-
-                
+                      
             </div>
         </nav>
         

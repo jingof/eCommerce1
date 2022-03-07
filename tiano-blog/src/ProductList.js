@@ -4,7 +4,6 @@ const ProductList = (props) => {
     let title = props.title;
     return (
         <section className="section">
-
             <h2><b>{title}</b></h2>
             
             <div className="ac-center box">

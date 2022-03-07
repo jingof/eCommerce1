@@ -2,7 +2,6 @@ import { useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { useHistory } from 'react-router-dom';
 
-
 const ProductDetails = () => {
     const { id } = useParams();
     const [product, setProduct] = useState(null);

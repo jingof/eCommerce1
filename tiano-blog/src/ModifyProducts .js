@@ -11,7 +11,6 @@ const ModifyProducts = () => {
 
     useEffect(() => {
         handleJsonDataChange(value);
-
     }, [value])
 
     const handleJsonDataChange = (value) => {
