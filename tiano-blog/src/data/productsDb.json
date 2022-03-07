@@ -1,0 +1,125 @@
+{  
+    "products": [   
+        {
+            "name": "Men's shoes", 
+            "price":40, 
+            "rating":4, 
+            "year":2020, 
+            "path":"./img/shoes1.jpg", 
+            "category":"Accessories",
+            "description":"Wingi is awesome 12. This is a description",
+            "id": 1
+        },
+        {
+            "name":"Jeans", 
+            "price":30, 
+            "rating":3.1, 
+            "year":2022, 
+            "path":"./img/shoes2.jpg", 
+            "category":"Trousers",
+            "description":"Wingi is awesome 10. This is a description",
+            "id": 2
+        },
+        {
+            "name":"Watches", 
+            "price":25, 
+            "rating":3, 
+            "year":2021, 
+            "path":"./img/shoes3.jpg",
+            "category":"Accessories", 
+            "description":"Wingi is awesome 9. This is a description",
+            "id": 3
+        },
+        {
+            "name":"Jackets", 
+            "price":28, 
+            "rating":5, 
+            "year":2022, 
+            "path":"./img/shoes1.jpg", 
+            "category":"Upper Wear",
+            "description":"Wingi is awesome 8. This is a description",
+            "id": 4
+        },
+        {
+            "name":"Belts", 
+            "price":41, 
+            "rating":4, 
+            "year":2020, 
+            "path":"./img/shoes2.jpg",
+            "category":"Accessories", 
+            "description":"Wingi is awesome 7. This is a description",
+            "id": 5
+        },
+        {
+            "name":"T shirts", 
+            "price":35, 
+            "rating":4.5, 
+            "year":2021, 
+            "path":"./img/shoes3.jpg",
+            "category":"Upper Wear",
+            "description":"Wingi is awesome 6. This is a description",
+            "id": 6
+        },
+        {
+            "name":"UnderShirts", 
+            "price":30, 
+            "rating":4, 
+            "year":2021, 
+            "path":"./img/shoes1.jpg", 
+            "category":"Upper Wear",
+            "description":"Wingi is awesome 5. This is a description",
+            "id": 7
+        },
+        {
+            "name":"Casual Pants", 
+            "price":50, 
+            "rating":3.1, 
+            "year":2020, 
+            "path":"./img/shoes2.jpg", 
+            "category":"Trousers",
+            "description":"Wingi is awesome 4. This is a description",
+            "id": 8
+        },
+        {
+            "name":"Colognes", 
+            "price":72, 
+            "rating":3.5, 
+            "year":2022, 
+            "path":"./img/shoes3.jpg", 
+            "category":"Bathroom Utilities",
+            "description":"Wingi is awesome 3. This is a description",
+            "id": 9
+        },
+        {
+            "name":"Vaseline", 
+            "price":20, 
+            "rating":5.6, 
+            "year":2020, 
+            "path":"./img/shoes1.jpg", 
+            "category":"Bathroom Utilities",
+            "description":"Wingi is awesome 2. This is a description",
+            "id": 10
+        },
+        {
+            "name":"Soap", 
+            "price":15, 
+            "rating":4, 
+            "year":2021, 
+            "path":"./img/shoes2.jpg", 
+            "category":"Bathroom Utilities",
+            "description":"Wingi is awesome 1. This is a description",
+            "id": 11
+        },
+        {
+            "name":"Bottles", 
+            "price":"300", 
+            "quantity":"20",
+            "rating":5,
+            "category":"Trousers",
+            "description":". This is a description ",
+            "id": 12,
+            "path":"./img/shoes1.jpg",
+            "year":"2022"
+        }
+    ]
+}
